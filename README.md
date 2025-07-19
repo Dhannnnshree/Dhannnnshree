@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there! I'm Dhanshree Pachpor  
+💻 Web Developer | 📊 Data Enthusiast | 🌐 Tech Explorer
 
-<!--
-**Dhannnnshree/Dhannnnshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 With strong Java skills and MERN stack experience, I thrive on problem solving and exploring innovative domains like AI and the Cloud.
 
-Here are some ideas to get you started:
+🚀 Currently Working On:
+  - Full-stack projects using the MERN stack (MongoDB, Express, React, Node.js)
+  - Solving algorithmic challenges to enhance problem-solving skills (Java)
+  - Exploring AI-powered applications and cloud integration
+  - Building clean, responsive web interfaces with a focus on user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Technologies I work with:
+HTML | CSS | JavaScript | Node.js | Express | MongoDB | React | Java | SQL
+
+🔍 Always curious about:
+- How tech can solve real-world problems
+- Open-source collaboration
+- Learning and sharing knowledge
+
+📫 Let's connect!
+Feel free to check out my repositories and reach out for collaboration or learning together!
+
+🌟 "Code. Learn. Build. Repeat."
